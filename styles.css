@@ -60,6 +60,10 @@ input[type="submit"]:hover{
     background-color: dimgray;
 }
 
+input[type="reset"]:hover{
+    background-color: dimgray;
+}
+
 h2{
     text-align: center;
     color: whitesmoke;
